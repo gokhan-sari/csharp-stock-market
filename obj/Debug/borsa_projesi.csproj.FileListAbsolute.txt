@@ -1,0 +1,14 @@
+C:\Users\Excalibur\Desktop\borsa_projesi\bin\Debug\borsa_projesi.exe.config
+C:\Users\Excalibur\Desktop\borsa_projesi\bin\Debug\borsa_projesi.exe
+C:\Users\Excalibur\Desktop\borsa_projesi\bin\Debug\borsa_projesi.pdb
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.login.resources
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.exe
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.pdb
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.admin.resources
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.user.resources
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.rapor.resources
+C:\Users\Excalibur\Desktop\borsa_projesi\obj\Debug\borsa_projesi.csproj.ResolveComReference.cache
